@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Value.png</file>
+        <file>Test.png</file>
+        <file>System.png</file>
+        <file>Sleeptime.png</file>
+        <file>Record.png</file>
+        <file>Password.png</file>
+        <file>Module.png</file>
+        <file>Light.png</file>
+        <file>Internet.png</file>
+        <file>img2.png</file>
+        <file>img1.png</file>
+        <file>Date.png</file>
+        <file>Dark.png</file>
+        <file>CHGcontrol.png</file>
+        <file>Base.png</file>
+        <file>Backspace.png</file>
+        <file>back.png</file>
+        <file>img3.png</file>
+        <file>img4.png</file>
+        <file>img5.png</file>
+    </qresource>
+</RCC>
